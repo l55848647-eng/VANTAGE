@@ -1,5 +1,3 @@
-# VANTAGE
-بع منتجاتك الرقمية بسهولة
 <!DOCTYPE html>
 <html lang="ar" dir="rtl">
 <head>
